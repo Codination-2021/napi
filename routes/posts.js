@@ -99,4 +99,19 @@ router.get("/profile/:username", async (req, res) => {
   }
 });
 
+router.get("/profile/allposts", async (req, res) => {
+  try {
+    const users= await Post.find({});
+    const userMap = [];
+    users.forEach((user) => {
+        userMap[user._id] = user;
+    });
+    res.send(userMap);
+ 
+   
+  } catch (err) {
+    res.status(500).json(err);
+  }
+});
+
 module.exports = router;
