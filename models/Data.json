@@ -1,0 +1,33 @@
+[
+    {
+        "key": "DBMS" , 
+        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc" ,
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+    } , 
+    {   
+        "key": "DS" ,
+        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+    } , 
+    {   
+        "key": "NS" ,
+        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+    } , 
+    {   
+        "key": "CD" ,
+        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+    } , 
+    {   
+        "key": "DWM" ,
+        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+    } 
+]
+

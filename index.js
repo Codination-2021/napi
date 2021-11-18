@@ -12,6 +12,8 @@ const conversationRoute = require("./routes/conversations");
 const messageRoute = require("./routes/messages");
 const router = express.Router();
 const path = require("path");
+const data = require("./models/Data");
+const cors = require("cors");
 
 dotenv.config();
 
@@ -29,6 +31,38 @@ app.use("/images", express.static(path.join(__dirname, "public/images")));
 app.use(express.json());
 app.use(helmet());
 app.use(morgan("common"));
+app.use(cors({origin: "http://localhost:3000"}))
+
+app.post("/fetchMessage", (req,res) => {
+  const {message} = req.body;
+  const msgsplit = message.toLowerCase().split(" ");
+  console.log(req.body);
+  let responseMessages = []
+  for(var i=0; i < data.length; i++){    
+    if(message.toLowerCase().includes(data[i].key.toLowerCase()))
+    {
+      console.log(data[i], i);
+      responseMessages.push(data[i])
+    }    
+    else{
+      console.log("Nahi Mila");
+    }
+  }
+  if(responseMessages.length == 0)
+  {
+    res.json({success: false})
+  }
+  else{
+    res.json({ 
+      success: true ,
+      messages: responseMessages});
+  }
+  
+  
+  // data.filter((item)=> {
+
+  // })
+})
 
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
