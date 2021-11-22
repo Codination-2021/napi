@@ -14,6 +14,7 @@ const router = express.Router();
 const path = require("path");
 const data = require("./models/Data");
 const cors = require("cors");
+const auth = require('./MiddleWare/Auth-MiddleWare');
 
 dotenv.config();
 
@@ -33,7 +34,7 @@ app.use(helmet());
 app.use(morgan("common"));
 app.use(cors({origin: "http://localhost:3000"}))
 
-app.post("/fetchMessage", (req,res) => {
+app.post("/fetchMessage", auth,(req,res) => {
   const {message} = req.body;
   const msgsplit = message.toLowerCase().split(" ");
   console.log(req.body);
