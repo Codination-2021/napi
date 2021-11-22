@@ -87,6 +87,17 @@ router.get("/timeline/:userId", async (req, res) => {
   }
 });
 
+router.get("/feed/getallposts", async (req, res) => {
+  try {    
+    console.log("inside all posts")
+    const users= await Post.find({});
+  
+  res.status(200).json(users);
+  } catch (err) {
+    res.status(500).json(err);
+  }
+});
+
 //get user's all posts
 
 router.get("/profile/:username", async (req, res) => {
@@ -101,7 +112,8 @@ router.get("/profile/:username", async (req, res) => {
 
 router.get("/profile/allposts", async (req, res) => {
   try {
-    const users= await Post.find({});
+    const users= await Post.find();
+    console.log(users);
     const userMap = [];
     users.forEach((user) => {
         userMap[user._id] = user;
