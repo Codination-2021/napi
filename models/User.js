@@ -40,13 +40,15 @@ const UserSchema = new mongoose.Schema(
       type: Boolean,
       default: false,
     },
-    desc: {
+    country: {
       type: String,
       max: 50,
+      default: "",
     },
     city: {
       type: String,
       max: 50,
+      default: "",
     },
     from: {
       type: String,
