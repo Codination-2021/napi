@@ -7,27 +7,69 @@
     } , 
     {   
         "key": "DS" ,
-        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
-        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
-        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+        "links":["https://www.tutorialspoint.com/data_structures_algorithms/index.htm", "https://www.javatpoint.com/data-structure-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" ,
+        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh"
     } , 
     {   
         "key": "NS" ,
-        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
-        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
-        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+        "links":["https://www.tutorialspoint.com/information_security_cyber_law/network_security.htm", "https://www.javatpoint.com/computer-network-security"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII" ,
+        "books" : "https://indianpdf.files.wordpress.com/2021/07/cryptography-network-security-principles-and-practices-by-william-stallings-indianpdf.com_-pdf-book-online-download-free-1.pdf"
     } , 
     {   
         "key": "CD" ,
-        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
-        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
-        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+        "links":["https://www.tutorialspoint.com/compiler_design/index.htm", "https://www.javatpoint.com/compiler-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT" ,
+        "books" : "http://160592857366.free.fr/joe/ebooks/ShareData/Modern%20Compiler%20Design%202e.pdf"
     } , 
     {   
         "key": "DWM" ,
-        "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
-        "yt" : "https://www.youtube.com/embed/T7AxM7Vqvaw" ,
-        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
-    } 
-]
+        "links":["https://www.javatpoint.com/data-warehouse", "https://www.javatpoint.com/data-mining","https://www.tutorialspoint.com/Data-Warehousing-and-Data-Mining"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLV8vIYTIdSnb4H0JvSTt3PyCNFGGlO78u" ,
+        "books" : "https://mrcet.com/pdf/Lab%20Manuals/IT/DWDM%20Lecture%20Notes%20III-II.pdf"
+    } ,
+    {   
+        "key": "ANDROID" ,
+        "links":["https://www.tutorialspoint.com/android/index.htm", "https://www.javatpoint.com/android-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd" ,
+        "books" : "https://ptgmedia.pearsoncmg.com/images/9780321956569/samplepages/0321956567.pdf"
+    } ,
+    {   
+        "key": "DSA" ,
+        "links":["https://www.tutorialspoint.com/data_structures_algorithms/index.htm", "https://www.javatpoint.com/data-structure-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" ,
+        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh"
+    } ,
+    {   
+        "key": "PYTHON" ,
+        "links":["https://www.tutorialspoint.com/python/index.htm", "https://www.javatpoint.com/python-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME" ,
+        "books" : "https://static.realpython.com/python-basics-sample-chapters.pdf"
+    } ,
+    {   
+        "key": "C" ,
+        "links":["https://www.tutorialspoint.com/cprogramming/index.htm", "https://www.javatpoint.com/c-programming-language-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR" ,
+        "books" : "https://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf"
+    } ,
 
+    {   
+        "key": "JAVA" ,
+        "links":["https://www.tutorialspoint.com/java/index.htm", "https://www.javatpoint.com/java-tutorial"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5" ,
+        "books" : "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
+    } ,
+    {   
+        "key": "DATABASE" ,
+        "links":["https://www.tutorialspoint.com/database_tutorials.htm", "https://www.javatpoint.com/what-is-database"] ,
+        "yt" : "https://www.youtube.com/embed/HXV3zeQKqGY",
+        "books" : "https://ncert.nic.in/textbook/pdf/keip108.pdf"
+    } ,
+    {   
+        "key": "MPA" ,
+        "links":["https://emu8086-microprocessor-emulator.en.softonic.com/download"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLZFSE8uSQCc7f53KfZI8O3hbC1B5vmECn" ,
+        "books" : "https://www.uobabylon.edu.iq/eprints/publication_1_26408_35.pdf"
+    }
+]
