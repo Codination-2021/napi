@@ -3,73 +3,148 @@
         "key": "DBMS" , 
         "links":["https://www.tutorialspoint.com/dbms/index.htm", "https://www.javatpoint.com/dbms-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc" ,
-        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf"
+        "books" : "https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf",
+        "downloadLink" : "https://www.oracle.com/tools/downloads/sqldev-downloads.html"
     } , 
     {   
-        "key": "DS" ,
-        "links":["https://www.tutorialspoint.com/data_structures_algorithms/index.htm", "https://www.javatpoint.com/data-structure-tutorial"] ,
+        "key": "Data Structures" ,
+        "links":["https://www.geeksforgeeks.org/data-structures/","https://www.tutorialspoint.com/data_structures_algorithms/index.htm", "https://www.javatpoint.com/data-structure-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" ,
-        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh"
+        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh",
+        "downloadLink" : "https://www.hackerrank.com/"
     } , 
     {   
         "key": "NS" ,
-        "links":["https://www.tutorialspoint.com/information_security_cyber_law/network_security.htm", "https://www.javatpoint.com/computer-network-security"] ,
+        "links":["https://geekflare.com/learn-network-security/","https://www.tutorialspoint.com/information_security_cyber_law/network_security.htm", "https://www.javatpoint.com/computer-network-security"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII" ,
-        "books" : "https://indianpdf.files.wordpress.com/2021/07/cryptography-network-security-principles-and-practices-by-william-stallings-indianpdf.com_-pdf-book-online-download-free-1.pdf"
+        "books" : "https://indianpdf.files.wordpress.com/2021/07/cryptography-network-security-principles-and-practices-by-william-stallings-indianpdf.com_-pdf-book-online-download-free-1.pdf",
+        "downloadLink" : ""
     } , 
     {   
         "key": "CD" ,
-        "links":["https://www.tutorialspoint.com/compiler_design/index.htm", "https://www.javatpoint.com/compiler-tutorial"] ,
+        "links":["https://onlinecourses.nptel.ac.in/noc21_cs07/preview","https://www.tutorialspoint.com/compiler_design/index.htm", "https://www.javatpoint.com/compiler-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT" ,
-        "books" : "http://160592857366.free.fr/joe/ebooks/ShareData/Modern%20Compiler%20Design%202e.pdf"
+        "books" : "http://160592857366.free.fr/joe/ebooks/ShareData/Modern%20Compiler%20Design%202e.pdf",
+        "downloadLink" : ""
     } , 
     {   
         "key": "DWM" ,
-        "links":["https://www.javatpoint.com/data-warehouse", "https://www.javatpoint.com/data-mining","https://www.tutorialspoint.com/Data-Warehousing-and-Data-Mining"] ,
+        "links":["https://www.dei.unipd.it/~capri/SI/MATERIALE/DWDM0405.pdf","https://www.javatpoint.com/data-warehouse", "https://www.javatpoint.com/data-mining","https://www.tutorialspoint.com/Data-Warehousing-and-Data-Mining"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLV8vIYTIdSnb4H0JvSTt3PyCNFGGlO78u" ,
-        "books" : "https://mrcet.com/pdf/Lab%20Manuals/IT/DWDM%20Lecture%20Notes%20III-II.pdf"
+        "books" : "https://mrcet.com/pdf/Lab%20Manuals/IT/DWDM%20Lecture%20Notes%20III-II.pdf",
+        "downloadLink" : "https://www.rstudio.com/products/rstudio/download/"
     } ,
     {   
         "key": "ANDROID" ,
-        "links":["https://www.tutorialspoint.com/android/index.htm", "https://www.javatpoint.com/android-tutorial"] ,
+        "links":["https://www.geeksforgeeks.org/android-tutorial/","https://www.tutorialspoint.com/android/index.htm", "https://www.javatpoint.com/android-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd" ,
-        "books" : "https://ptgmedia.pearsoncmg.com/images/9780321956569/samplepages/0321956567.pdf"
+        "books" : "https://ptgmedia.pearsoncmg.com/images/9780321956569/samplepages/0321956567.pdf",
+        "downloadLink" : "https://developer.android.com/studio"
     } ,
     {   
         "key": "DSA" ,
         "links":["https://www.tutorialspoint.com/data_structures_algorithms/index.htm", "https://www.javatpoint.com/data-structure-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi" ,
-        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh"
+        "books" : "https://drive.google.com/open?id=1mqlBa1Sabi428LMA0BN_a6RX0ffTTyXh",
+        "downloadLink" : "https://codeforces.com/"
     } ,
     {   
         "key": "PYTHON" ,
-        "links":["https://www.tutorialspoint.com/python/index.htm", "https://www.javatpoint.com/python-tutorial"] ,
+        "links":["https://www.w3schools.com/python/","https://www.tutorialspoint.com/python/index.htm", "https://www.javatpoint.com/python-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME" ,
-        "books" : "https://static.realpython.com/python-basics-sample-chapters.pdf"
+        "books" : "https://static.realpython.com/python-basics-sample-chapters.pdf",
+        "downloadLink" : "https://www.jetbrains.com/pycharm/download/"
     } ,
     {   
-        "key": "C" ,
-        "links":["https://www.tutorialspoint.com/cprogramming/index.htm", "https://www.javatpoint.com/c-programming-language-tutorial"] ,
+        "key": "C Programming" ,
+        "links":["https://www.programiz.com/c-programming","https://www.tutorialspoint.com/cprogramming/index.htm", "https://www.javatpoint.com/c-programming-language-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR" ,
-        "books" : "https://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf"
+        "books" : "https://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf",
+        "downloadLink" : "https://turboc.me/download-turbo-c-file/"
     } ,
 
     {   
         "key": "JAVA" ,
-        "links":["https://www.tutorialspoint.com/java/index.htm", "https://www.javatpoint.com/java-tutorial"] ,
+        "links":["https://www.w3schools.com/java/default.asp","https://www.tutorialspoint.com/java/index.htm", "https://www.javatpoint.com/java-tutorial"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5" ,
-        "books" : "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf"
+        "books" : "https://www.iitk.ac.in/esc101/share/downloads/javanotes5.pdf",
+        "downloadLink" : "https://www.eclipse.org/downloads/"
     } ,
     {   
         "key": "DATABASE" ,
         "links":["https://www.tutorialspoint.com/database_tutorials.htm", "https://www.javatpoint.com/what-is-database"] ,
         "yt" : "https://www.youtube.com/embed/HXV3zeQKqGY",
-        "books" : "https://ncert.nic.in/textbook/pdf/keip108.pdf"
+        "books" : "https://ncert.nic.in/textbook/pdf/keip108.pdf",
+        "downloadLink" : "https://www.apachefriends.org/download.html"
     } ,
     {   
         "key": "MPA" ,
         "links":["https://emu8086-microprocessor-emulator.en.softonic.com/download"] ,
         "yt" : "https://www.youtube.com/embed/videoseries?list=PLZFSE8uSQCc7f53KfZI8O3hbC1B5vmECn" ,
-        "books" : "https://www.uobabylon.edu.iq/eprints/publication_1_26408_35.pdf"
+        "books" : "https://www.uobabylon.edu.iq/eprints/publication_1_26408_35.pdf",
+        "downloadLink" : "https://emu8086-microprocessor-emulator.en.softonic.com/download"
+    } ,
+    {
+        "key": "AI" , 
+        "links":["https://www.udemy.com/topic/artificial-intelligence/free/", "https://course.elementsofai.com/"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe" ,
+        "books" : "https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf",
+        "downloadLink" : "https://www.anaconda.com/products/individual"
+    } ,
+    {
+        "key": "ML" , 
+        "links":["https://ai.google/education/", "https://www.geeksforgeeks.org/machine-learning/"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLfP3JxW-T70Hh7j17_NLzjZ8CejSPx40V" ,
+        "books" : "http://www.cs.cmu.edu/~rwh/isml/book.pdf",
+        "downloadLink" : "https://www.anaconda.com/products/individual"
+    } ,
+    {
+        "key": "REACT" , 
+        "links":["https://reactjs.org/", "https://www.w3schools.com/REACT/DEFAULT.ASP"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3" ,
+        "books" : "https://edu.anarcho-copy.org/Programming%20Languages/Node/Pro%20MERN%20Stack,%202nd%20Edition.pdf",
+        "downloadLink" : "https://code.visualstudio.com/Download"
+    } ,
+    {
+        "key": "EXPRESS" , 
+        "links":["https://www.geeksforgeeks.org/introduction-to-express/", "http://expressjs.com/"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLwGdqUZWnOp3Vqww2cL5KbDkShj4NMRzk" ,
+        "books" : "https://edu.anarcho-copy.org/Programming%20Languages/Node/Pro%20MERN%20Stack,%202nd%20Edition.pdf",
+        "downloadLink" : "https://code.visualstudio.com/Download"
+    } ,
+    {
+        "key": "MONGODB" , 
+        "links":["https://www.javatpoint.com/mongodb-tutorial", "https://www.tutorialspoint.com/mongodb/index.htm"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa" ,
+        "books" : "https://edu.anarcho-copy.org/Programming%20Languages/Node/Pro%20MERN%20Stack,%202nd%20Edition.pdf",
+        "downloadLink" : "https://www.mongodb.com/try/download/compass"
+    } ,
+    {
+        "key": "CPP" , 
+        "links":["https://www.w3schools.com/cpp/", "https://www.programiz.com/cpp-programming"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ" ,
+        "books" : "https://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf",
+        "downloadLink" : "https://sourceforge.net/projects/orwelldevcpp/"
+    } ,
+    {
+        "key": "NODE" , 
+        "links":["https://www.tutorialspoint.com/nodejs/index.htm", "https://www.w3schools.com/nodejs/"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8" ,
+        "books" : "https://edu.anarcho-copy.org/Programming%20Languages/Node/Pro%20MERN%20Stack,%202nd%20Edition.pdf",
+        "downloadLink" : "https://nodejs.org/en/download/"
+    } ,
+    {
+        "key": "ANGULAR" , 
+        "links":["https://www.w3schools.com/nodejs/", "https://www.w3schools.com/angular/"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ" ,
+        "books" : "https://books.ninja-squad.com/public/samples/Become_a_ninja_with_Angular_sample.pdf",
+        "downloadLink" : "https://angular.io/"
+    } ,
+    {
+        "key": ".NET" , 
+        "links":["https://www.javatpoint.com/net-framework", "https://www.tutorialsteacher.com/core"] ,
+        "yt" : "https://www.youtube.com/embed/videoseries?list=PL6n9fhu94yhXQS_p1i-HLIftB9Y7Vnxlo" ,
+        "books" : "https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf",
+        "downloadLink" : "https://dotnet.microsoft.com/download"
     }
 ]

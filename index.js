@@ -39,7 +39,7 @@ app.use(helmet());
 app.use(morgan("common"));
 app.use(cors({origin: "http://localhost:3000"}))
 
-app.post("/fetchMessage", auth,(req,res) => {
+app.post("/fetchMessage", (req,res) => {
   const {message} = req.body;
   const msgsplit = message.toLowerCase().split(" ");
   console.log(req.body);
