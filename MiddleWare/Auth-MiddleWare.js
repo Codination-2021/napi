@@ -5,7 +5,7 @@ module.exports = (req, res, next) => {
       console.log(req.headers);
     const token = req.headers.authorization.split(" ")[2];
     console.log(token);
-    const decodedToken = jwt.verify(token, "deepshah");
+    const decodedToken = jwt.verify(token, "not to be declared");
     console.log(decodedToken);
     const email = decodedToken.email;
     if (req.body.email && req.body.email !== email) {
